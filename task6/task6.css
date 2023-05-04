@@ -1,0 +1,125 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+/*the start of navbar*/
+.navbar{
+    background-color:#5816b8;
+    padding:10px;
+}
+.navbar ul li{
+    display:inline-block;
+    margin-left:20px;
+}
+.navbar ul li a{
+    text-decoration:none;
+    color: #fff;
+    vertical-align:10px;;
+}
+.navbar ul li img{
+    width: 45px;
+    height: 45px;
+}
+/*the end of navbar*/
+/*the start of section*/
+.b{
+    background-image: url(7/7.png);
+    height:85vh;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size:100% 85vh;
+    background-position:center ;
+    /*the start of section*/
+}
+#c{
+    text-align: center;
+    word-spacing: 20px;
+}
+/*the start of div*/
+#d{
+    padding:12px;
+    width: 25%;
+    background-color: #ffeb99;
+    opacity:.7;
+    text-align:center;
+}
+/*the end of div*/
+/*the start of div*/
+#f{
+    background-color:#f460c0;
+    margin-left:12vh;
+    width:35%;
+    height:40vh;
+    margin-top:5px;
+}
+#f p{
+    font-family: monospace;
+    font-size:20px;
+    line-height:30px;
+    padding:20px;
+}
+/*the end of section*/
+/*the start of div*/
+#g{
+    background-color: #B3DBF4;
+    text-decoration: overline;
+    margin-top: 5px;
+    margin-left:25vh; 
+    width:32%;
+    height:15vh;
+    padding:15px;
+}
+#g button{
+    width:18vh;
+    height:5vh;
+    border-radius:8px ;
+    padding-top:4px;
+    margin-top: -10px;
+    color: white;
+    font-size: 15px;
+}
+/*the end of div*/
+/*the start of section*/
+#i{
+    background-color:#5816b8;;
+    margin-top:5px;
+    margin-left: 35vh;
+    padding: 30px;
+    margin-bottom :5px;
+    width: 35%;
+}
+#i div{
+    padding:13vh 7vh;
+}
+#f h3{
+    text-align: center;
+}
+#f p{
+    word-spacing: 5px;
+    text-align: justify;
+    text-decoration: underline;
+}
+.y{
+    margin-bottom :8px;
+    background-color: lightgray;
+}
+#g button{
+margin-left: 40%;
+background-color: #0B51C1;
+}
+/*the end of section*/
+/*the start of table*/
+.e{
+    padding:15px ;
+    background-color: #ffeb99;
+    width:35%;
+    margin-left: 35%;
+}
+table{
+    font-size:20px;
+    width: 55vh;
+    margin:auto;
+    border-collapse:collapse ;
+    text-align: center;
+}
+/*the end of table*/
