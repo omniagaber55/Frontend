@@ -1,0 +1,154 @@
+body{
+    margin: 0px;
+    padding:0px;
+    background-image:url(B/31.jpg);
+    background-repeat:no-repeat ;
+    background-size:cover;
+}
+#navbar1{
+    height:12vh;
+    width:100%; 
+    display:flex;
+}
+#navbar1 h1{
+    font-size: 60px;
+    margin-top: 1vh; 
+    color: white;
+    margin-left: 20vh;
+    margin-right:60vh;
+
+}
+#navbar1 a{
+    text-decoration:none;
+    color: white;
+    margin-top: 5vh;
+    margin-left:5px;
+   }
+#navbar2{
+    padding: 20px;
+    background-color: white;
+}    
+#navbar2 a{
+        text-decoration:none;
+        color: rgb(53, 148, 104);
+        font-size: 17px;
+        margin-left:10px;
+}
+#b{
+    display:flex;
+    background-color: white;
+    justify-content: space-between;  
+}
+#c img{
+    width:55vh;
+    height:35vh;
+}
+#d img{
+    width:55vh;
+    height:35vh;
+}
+#e img{
+    width:55vh;
+    height:35vh;
+}
+#f{
+    display:flex;
+    justify-content: space-around;  
+    margin-top: 6vh;
+}
+#g img{
+    width:80vh;
+    height:35vh;
+}
+#h img{
+    width:80vh;
+    height:35vh;
+}
+h1{
+color: white;
+margin-top:20vh;
+font-size:40px;
+margin-left: 10vh;
+}
+#i{
+    display:flex;
+    justify-content: space-around; 
+    color: white;
+}
+#j img{
+    width:30vh;
+    height:35vh;
+    border-color:white ;
+    border-style: solid;
+}
+#k img{
+    width:30vh;
+    height:35vh;
+    border-color:white ;
+    border-style: solid;
+}
+#l img{
+    width:30vh;
+    height:35vh;
+    border-color:white ;
+    border-style: solid;
+}
+#m img{
+    width:30vh;
+    height:35vh;
+    border-color:white ;
+    border-style: solid;
+}
+h2{
+    color: white;
+    margin-top:20vh;
+    font-size:40px;
+    margin-left: 10vh;
+    }
+#n{
+    justify-content: space-around; 
+    color: white;
+    display:flex;
+}
+#o img{
+    width:30vh;
+    height:35vh;
+    border-color:white ;
+    border-style: solid;
+}
+#p img{
+    width:30vh;
+    height:35vh;
+    border-color:white ;
+    border-style: solid;
+}
+#q img{
+    width:30vh;
+    height:35vh;
+    border-color:white ;
+    border-style: solid;
+}
+#r img{
+    width:30vh;
+    height:35vh;
+    border-color:white ;
+    border-style: solid;
+}
+#s{
+    background-color: white;
+    font-size:35px;
+    height:10vh;
+text-align: center;
+margin-bottom:0px ;
+}
+#s a{
+    text-decoration:none;
+    color: rgb(236, 22, 201);
+    margin-left:5vh;
+}
+hr{
+    width: 90%;
+}
+
+
+
