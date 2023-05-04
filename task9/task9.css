@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+     background-image: url(c/47.jpg);
+     height: 70vh;
+     background-size: 100% 70vh;
+  
+}
+#header h2{
+    color: white; 
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+#head{   
+    display: flex;
+    margin-left: 75%;
+}
+#head h4 a{
+    border-radius: 8px;
+}
+#head i{
+    color: white; 
+    margin-left: 20px;
+}
+   #head h4{
+       color: white;
+       margin-top: 0vh;
+   }
+#head #b{
+    padding: 4px 6px;
+    background-color: yellow;
+}
+#header h1{
+    text-align: center;
+    margin-top: 0vh;
+    position:relative;
+    top: 30vh;
+    color: white;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#header h1 span{
+    color: yellow;
+}
+#c{
+    margin-top: 8vh;
+}
+#c h1{
+text-align: center;
+color: yellow;
+}
+#c p{
+    text-align: justify;
+    margin-left: 37%;
+}
+#d{
+    width:1200px;
+    height:30vh;
+    padding:50px;
+    margin:80px 170px;
+    display:grid;
+    grid-template-columns :250px 250px 250px 250px;
+    gap: 20px;
+    text-align: center;
+}
+#d i{
+    font-size:40px ;
+    color: white;
+    padding: 10px;
+}
+#d #e{
+ background-color: gray;   
+}
+#d #f{
+    background-color: yellow;   
+   }
+#d #g{
+    background-color:gray;   
+   }
+#d #h{
+    background-color: yellow;   
+   }
+#i{
+    height:30vh;
+    display:grid;
+    grid-template-columns :370px 370px 370px 370px;
+    gap: 8px;
+    margin-bottom :8px;
+}
+#i img{
+    width: 370px;
+    height:30vh;
+    margin-left: 8px;
+}
+#n{
+    height:30vh;
+    display:grid;
+    grid-template-columns :370px 370px 370px 370px;
+    gap: 8px;
+}
+#n img{
+    width: 370px;
+    height:30vh;
+    margin-left: 8px;
+}
+#o {
+    background-image:url(c/46.jpg);
+    height:60vh;
+}
+#o form{
+background-color: rgba(109, 109, 173);
+ba
+}
+.y{
+    display:grid;
+    grid-template-columns :250px 250px 250px 250px;
+    margin-left: 40px;   
+}
+#z{
+        width:100%;
+        background-color: yellow;
+        height:40vh;
+    display:grid;
+    grid-template-columns :370px 370px 370px ;
+    gap: 50px;
+    }
